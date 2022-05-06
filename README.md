@@ -3,7 +3,7 @@ Here we will teach how to make an Ubuntu Server and install various services lik
 
 -------------------------------------------------------
 Currently underconstruction
-Head over to the wiki were i will fill the information.
+Head over to the wiki were we will fill the information.
 
 https://github.com/Alisu-official/Linux-Server/wiki
 -------------------------------------------------------
